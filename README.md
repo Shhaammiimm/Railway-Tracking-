@@ -1,5 +1,9 @@
 
 Project Title: Railway Tracking and Arrival Time Prediction System
+Submitted By:Shamim Mahmamud Shajon  ID:2002069                                         
+Submitted to:Pankaj Bhowmik(Lecturer,HSTU)                                                        
+Course Code:CSE 305
+Course Title:Software Engineering
 
 1. Introduction:
 The Railway Tracking and Arrival Time Prediction System is designed to enhance the efficiency and reliability of train services by implementing real-time tracking and accurate prediction of arrival times. This system aims to provide passengers with timely and reliable information, reducing uncertainty and improving overall user experience.
